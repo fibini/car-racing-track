@@ -5,6 +5,6 @@ import { Scene } from './Scene';
 
 createRoot(document.getElementById('root')).render(
   <Canvas>
-    <Scene/>
-  </Canvas>
+    <Scene />
+  </Canvas>,
 );
